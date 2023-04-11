@@ -2,7 +2,3 @@ vino
 galletitas
 pan
 limpieza
-bananas
-manzanas
-plata
-naranjas
